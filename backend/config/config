@@ -1,0 +1,5 @@
+PORT=4000
+MONGODB_URL=mongodb://localhost:4000
+DB_NAME=food-del
+NODE_ENV=devlopment
+JWT_SECRET=12
